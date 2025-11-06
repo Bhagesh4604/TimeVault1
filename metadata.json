@@ -1,0 +1,5 @@
+{
+  "name": "TimeVault",
+  "description": "A digital time capsule service. Users create 'TimeVaults' containing media and messages that are locked until a specific future date. When the time arrives, the user is notified and gains access to the memory.",
+  "requestFramePermissions": []
+}
